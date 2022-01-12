@@ -10,6 +10,25 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
+<br>
+
+
+
+## 👩‍💻 About me
+
+* <img width="16" src="https://ak.picdn.net/shutterstock/videos/663292/thumb/1.jpg" alt="India" /> I'm from India
+* <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
+* <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
+* 👩‍🏫 Love teaching and sharing knowledge
+* <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> As a challenge enthusiastic, I am diving into the software world
+* 🏞️ Traveling is one of my favorite hobbies, as you can see from the image above, <a href="https://www.google.com/maps/place/51%C2%B026'25.4%22N+116%C2%B032'30.3%22W/@51.4403895,-116.5439459,17z/data=!4m5!3m4!1s0x0:0x0!8m2!3d51.4403895!4d-116.5417572">Emerald Lake</a> is one of the most beatiful places that I have ever been to
+
+
+
+<br>
+
+
+
 
 
 - 👨‍💻 You can also check out my Linkedin at [kavyanjali](https://www.linkedin.com/in/r-kavyanjali-a1b94018b/)
@@ -56,24 +75,23 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojitha2002&show_icons=true&locale=en&layout=compact" alt="poojitha2002" /></p>
-
-<br/>
 
 
+📈 my github stats
 
-
-
-
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kavyanjali507&show_icons=true&theme=gotham" alt="kavyanjali507" />
+ 
+  Watch my contribution graph being eaten by a Snake!
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboogoel01&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboogoel01&show_icons=true&locale=en" alt="khushboogoel01" /></p>
+
+
+
 
 
 
